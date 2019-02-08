@@ -1,21 +1,14 @@
-Litecoin Core integration/staging tree
+Damicoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
-
-https://litecoin.org
-
-What is Litecoin?
+What is Damicoin?
 ----------------
 
-Litecoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Litecoin uses peer-to-peer technology to operate
+Damicoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Damicoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Litecoin Core is the name of open source
+out collectively by the network. Damicoin Core is the name of open source
 software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
 
 License
 -------
@@ -27,16 +20,9 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/litecoin-project/litecoin/tags) are created
-regularly to indicate new official, stable release versions of Litecoin Core.
+completely stable.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-The developer [mailing list](https://groups.google.com/forum/#!forum/litecoin-dev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
-
-Developer IRC can be found on Freenode at #litecoin-dev.
 
 Testing
 -------
